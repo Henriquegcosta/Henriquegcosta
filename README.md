@@ -1,6 +1,18 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Henriquegcosta/030556369635271c1ef46369bc12d247/raw/d475c3414097d47f495ec864d3231f337e401b5b/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique Gonçalves Costa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Henriquegcosta&color=yellow" alt="Profile views" /> </p>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Henriquegcosta/31d988fd13a4a61bba015f7d753a8a6a/raw/09fedf554040ba2351724363daf1f34006458a3b/githubcard2.svg"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique Gonçalves Costa</h1>
+<p align="center" style="background:yellow">
+<a href="https://www.linkedin.com/in/henriquegcosta/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Henriquegcosta-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/heriquegc/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Henriquegcosta-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+
+## About Me
+
+- 📕 I'm a starter developer. I love learning new things
 
 - 🔥 Web Developer Java
 
@@ -16,7 +28,7 @@
 
 
 
-<br><br>
+<br><br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -45,7 +57,7 @@
 
 
 <br><br>
-
+<!--
 <div align="left">
 
 ## My Contributions
@@ -54,17 +66,7 @@
 </div>
 
 <br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/henriquegcosta/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Henriquegcosta-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/heriquegc/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Henriquegcosta-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+-->
 
 <!--
 
