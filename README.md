@@ -51,8 +51,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Henriquegcosta&show_icons=true&theme=tokyonight" alt="henriquegcosta stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquegcosta&layout=compact&theme=tokyonight" alt="henriquegcosta most languages"/>
+<img width="410em" src="https://github-readme-stats.vercel.app/api?username=Henriquegcosta&show_icons=true&theme=tokyonight" alt="henriquegcosta stats"/>
+<img width="405em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquegcosta&layout=compact&theme=tokyonight" alt="henriquegcosta most languages"/>
 </p>
 
 
