@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript, Html, CSS**
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, HTML, CSS, JAVA**
 
 - ⚡ Fun fact **I'm Gamer 🎮**
 
