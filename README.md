@@ -10,21 +10,21 @@
 </p>
 
 
-## About Me
+## Sobre mim
 
-- 📕 I'm a starter developer. I love learning new things
+- 📕 Sou um desenvolvedor iniciante, adoro aprender novas coisas
 
-- 🔥 Web Developer Java
+- 🔥 Desenvolvedor Web Java
 
-- 🔭 I’m currently studying at [Instituto Proa](https://www.proa.org.br/)
+- 🔭 Estou estudo no [Instituto Proa](https://www.proa.org.br/)
 
-- 🌱 I’m currently learning **React, JavaScript, Html, CSS**
+- 🌱 Atualmente estou aprendendo **Java, MySQL**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, JAVA**
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, JAVA**
 
-- ⚡ Fun fact **I'm Gamer 🎮**
+- ⚡ Curiosidade **Sou gamer 🎮**
 
-- 👨‍💻 My Portfolio [Soon]()
+- 👨‍💻 Meu portfolio [Em Breve]()
 
 
 
