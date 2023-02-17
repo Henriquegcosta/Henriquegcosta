@@ -1,4 +1,6 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Henriquegcosta/31d988fd13a4a61bba015f7d753a8a6a/raw/09fedf554040ba2351724363daf1f34006458a3b/githubcard2.svg"/>
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Henriquegcosta/31d988fd13a4a61bba015f7d753a8a6a/raw/09fedf554040ba2351724363daf1f34006458a3b/githubcard2.svg"/> 
+-->
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique Gonçalves Costa</h1>
 <p align="center" style="background:yellow">
 <a href="https://www.linkedin.com/in/henriquegcosta/" target="_blank">
