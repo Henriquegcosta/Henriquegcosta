@@ -14,19 +14,19 @@
 
 ## Sobre mim
 
-- 📕 Sou um desenvolvedor iniciante, adoro aprender novas coisas
+  - 📕 Sou um desenvolvedor iniciante, adoro aprender novas coisas
 
-- 🔥 Desenvolvedor Web Java
+  - 🔥 Desenvolvedor Web Java
 
-- 🔭 Estou estudo no [Instituto Proa](https://www.proa.org.br/)
+  - 🔭 Estou estudo no [Instituto Proa](https://www.proa.org.br/)
 
-- 🌱 Atualmente estou aprendendo **Java, MySQL**
+  - 🌱 Atualmente estou aprendendo **Java, MySQL**
 
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, JAVA**
+  - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, JAVA**
 
-- ⚡ Curiosidade **Sou gamer 🎮**
+  - ⚡ Curiosidade **Sou gamer 🎮**
 
-- 👨‍💻 Meu portfolio [Em Breve]()
+  - 👨‍💻 Meu portfolio [Em Breve]()
 
 
 
