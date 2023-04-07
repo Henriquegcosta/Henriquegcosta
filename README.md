@@ -16,13 +16,13 @@
 
   - 📕 Sou um desenvolvedor iniciante, adoro aprender novas coisas
 
-  - 🔥 Desenvolvedor Web Java
+  - 🔥 Desenvolvedor Web Java /  Desenvolvedor Mobile Kotlin
 
-  - 🔭 Estou estudo no [Instituto Proa](https://www.proa.org.br/)
+  - 🔭 Ex-aluno no [Instituto Proa](https://www.proa.org.br/)
 
-  - 🌱 Atualmente estou aprendendo **Java, MySQL**
+  - 🌱 Atualmente estou aprendendo **Kotlin**
 
-  - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, JAVA**
+  - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, JAVA, Kotlin**
 
   - ⚡ Curiosidade **Sou gamer 🎮**
 
