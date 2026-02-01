@@ -10,11 +10,15 @@ Sou estudante de Sistemas de Informação (3º semestre) e **Desenvolvedor de So
 
 Estou sempre aprendendo, experimentando novas tecnologias e aprimorando minhas habilidades por meio de projetos pessoais. Fique à vontade para explorar meus repositórios e acompanhar minha jornada como desenvolvedor 🚀
 
+Caso queira testar meus jogos entre no meu [itch.io](https://solstice-studio.itch.io/)
+
 - English version
 
 I’m a Systems Information student (3rd semester) and a **Software Developer** who loves building things with code. I’m especially passionate about application development and enjoy creating games in my free time, where I can mix creativity with problem-solving.
 
 I’m always learning, experimenting with new technologies, and improving my skills through personal projects. Feel free to explore my repositories and follow my journey as a developer 🚀
+
+If you want to test my games see my [itch.io](https://solstice-studio.itch.io/)
 
 ## My Skills
 
