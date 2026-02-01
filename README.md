@@ -2,7 +2,10 @@
 
 <img src="https://i.postimg.cc/sgPGzKKV/Desenvolvedor-de-Jogos.png">
 
-## About Me
+## About Me / Sobre Mim
+
+Sou estudante de Sistemas de Informação (3º semestre) e **Desenvolvedor de Software** que adora criar coisas com código. Tenho um interesse especial por desenvolvimento de aplicativos e gosto de criar jogos no meu tempo livre, onde posso combinar criatividade com resolução de problemas.
+Estou sempre aprendendo, experimentando novas tecnologias e aprimorando minhas habilidades por meio de projetos pessoais. Fique à vontade para explorar meus repositórios e acompanhar minha jornada como desenvolvedor 🚀
 
 I’m a Systems Information student (3rd semester) and a **Software Developer** who loves building things with code. I’m especially passionate about application development and enjoy creating games in my free time, where I can mix creativity with problem-solving.
 
@@ -14,11 +17,11 @@ I’m always learning, experimenting with new technologies, and improving my ski
 [![My Skills](https://skillicons.dev/icons?i=git,unity,cs,kotlin)](https://skillicons.dev)
 
 
-## 🧪 Work in Progress  
+## 🧪 Work in Progress / Trabalho em progresso
 
-**Coming Soon** 🏝️🖱️ 
+**Coming Soon / Em Breve** 🏝️🖱️ 
 
-working on the alpha version of a game.
+working on the alpha version of a game. / Trabalhando na versão alpha de um jogo
 
 
 ---
