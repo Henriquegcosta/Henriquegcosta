@@ -14,6 +14,16 @@ I’m always learning, experimenting with new technologies, and improving my ski
 [![My Skills](https://skillicons.dev/icons?i=git,unity,cs,kotlin)](https://skillicons.dev)
 
 
+## 🧪 Work in Progress  
+
+**Coming Soon** 🏝️🖱️ 
+
+working on the alpha version of a game.
+
+
+---
+
+
 
 ## GitHub Stats
 
