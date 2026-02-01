@@ -4,8 +4,13 @@
 
 ## About Me / Sobre Mim
 
+# Versão em português
+
 Sou estudante de Sistemas de Informação (3º semestre) e **Desenvolvedor de Software** que adora criar coisas com código. Tenho um interesse especial por desenvolvimento de aplicativos e gosto de criar jogos no meu tempo livre, onde posso combinar criatividade com resolução de problemas.
+
 Estou sempre aprendendo, experimentando novas tecnologias e aprimorando minhas habilidades por meio de projetos pessoais. Fique à vontade para explorar meus repositórios e acompanhar minha jornada como desenvolvedor 🚀
+
+# English version
 
 I’m a Systems Information student (3rd semester) and a **Software Developer** who loves building things with code. I’m especially passionate about application development and enjoy creating games in my free time, where I can mix creativity with problem-solving.
 
